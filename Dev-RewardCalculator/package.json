@@ -1,0 +1,16 @@
+{
+  "name": "miningfees-calc",
+  "version": "1.0.0",
+  "description": "calculate mining fees for set time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kvhnuke",
+  "license": "ISC",
+  "devDependencies": {
+    "bignumber.js": "^3.0.1",
+    "wait.for": "^0.6.6",
+    "web3": "^0.17.0-beta"
+  }
+}
